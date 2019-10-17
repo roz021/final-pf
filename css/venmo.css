@@ -435,7 +435,7 @@
       width: 29vw;
       max-width: 29vw;
       height: auto;
-      margin-right: 10vw;
+      /* margin-right: 10vw; */
       height: auto;
     }
     
@@ -570,6 +570,17 @@
 .full-graphic{
   width: 100%;
   height: auto;
+}
+
+.pp-graphic{
+  width: 98%;
+  height: auto;
+  flex-grow: 1;
+}
+
+
+.pain{
+  width: 100vw;
 }
 
 .m-c-graphic{

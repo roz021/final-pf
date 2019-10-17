@@ -2021,6 +2021,61 @@ body.fade {
       animation: downWipe 2s ease-in-out infinite;
     }
 
+    .menu-wrapper{
+      flex-direction: column;
+    }
+
+    .featured-menu, .archive-menu{
+      margin-bottom: 5vw;
+    }
+
+    .menu-header{
+      font-family: 'cereal-bold', sans-serif;
+      color: var(--sec-white);
+      font-size: 2.5vw;
+      letter-spacing: 0.1em;
+      margin-bottom: 2vw;
+    }
+    
+    .menu-proj-head{
+      font-family: 'cereal-bold', sans-serif;
+      color: var(--main-charcoal);
+      font-size: 2vw;
+      letter-spacing: 0.05em;
+      margin-bottom: .5vw;
+    }
+    
+    .menu-proj-head-nc{
+      font-family: 'cereal-bold', sans-serif;
+      color: var(--main-charcoal);
+      font-size: 2vw;
+      letter-spacing: 0.05em;
+      margin-bottom: 3.7vw;
+    }
+    
+    .menu-proj-head-alert{
+      font-family: 'cereal-bold', sans-serif;
+      color: var(--main-charcoal);
+      font-size: 2vw;
+      letter-spacing: 0.05em; 
+    }
+    
+    #copy-alert{
+      font-family: 'cereal-book', sans-serif;
+      color: var(--sec-black);
+      font-size: 1vw;
+      letter-spacing: 0.025em;
+      opacity: 0;
+      margin-bottom: 2.5vw;
+    }
+
+    .menu-proj-skills{
+      font-family: 'cereal-med', sans-serif;
+      color: var(--sec-white);
+      font-size: 1.5vw;
+      letter-spacing: 0.02em;
+      margin-bottom: 2vw;
+    }
 }
 
 @media only screen and (max-width:500px){
@@ -2115,12 +2170,12 @@ body.fade {
 }
 
 .featured-menu, .archive-menu{
-  margin-bottom: 5vw;
+  margin-bottom: 10vw;
 }
 .menu-header{
   font-family: 'cereal-bold', sans-serif;
   color: var(--sec-white);
-  font-size: 3.5vw;
+  font-size: 5.5vw;
   letter-spacing: 0.1em;
   margin-bottom: 2vw;
 }
@@ -2128,7 +2183,7 @@ body.fade {
 .menu-proj-head{
   font-family: 'cereal-bold', sans-serif;
   color: var(--main-charcoal);
-  font-size: 2.5vw;
+  font-size: 4.5vw;
   letter-spacing: 0.05em;
   margin-bottom: .5vw;
 }
@@ -2136,7 +2191,7 @@ body.fade {
 .menu-proj-head-nc{
   font-family: 'cereal-bold', sans-serif;
   color: var(--main-charcoal);
-  font-size: 2.5vw;
+  font-size: 4.5vw;
   letter-spacing: 0.05em;
   margin-bottom: 3.7vw;
 }
@@ -2144,17 +2199,17 @@ body.fade {
 .menu-proj-head-alert{
   font-family: 'cereal-bold', sans-serif;
   color: var(--main-charcoal);
-  font-size: 2.5vw;
+  font-size: 4.5vw;
   letter-spacing: 0.05em; 
 }
 
 #copy-alert{
   font-family: 'cereal-book', sans-serif;
   color: var(--sec-black);
-  font-size: 1.5vw;
+  font-size: 2.5vw;
   letter-spacing: 0.025em;
   opacity: 0;
-  margin-bottom: 2.5vw;
+  margin-bottom: 1vw;
 }
 
 .alert-appear{
@@ -2164,7 +2219,7 @@ body.fade {
 .menu-proj-skills{
   font-family: 'cereal-med', sans-serif;
   color: var(--sec-white);
-  font-size: 1.8vw;
+  font-size: 3vw;
   letter-spacing: 0.02em;
   margin-bottom: 2vw;
 }

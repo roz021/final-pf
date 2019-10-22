@@ -2590,6 +2590,10 @@ body.fade {
   align-items: center;
 }
 
+.about-left{
+  text-align: center;
+}
+
 .about-right{
   align-items: center;
 }
@@ -2612,19 +2616,24 @@ body.fade {
 }
 
 .about-buttons{
- margin-left: -10vw;
- justify-content: flex-start;
+ /* margin-left: -10vw; */
+ /* justify-content: flex-start; */
+ /* align-items: center; */
 }
 
 .cnt-btn-wrap-abt{
-  margin-top: -10%;
+  margin-top: -5%;
 }
 
 .connect-btn-abt{
   padding: 1vw 5vw;
   font-size: 4vw;
   line-height: 35px;
-  max-width: 160px;
+  max-width: 185px;
+}
+
+#copy-alert-abt{
+  font-size: 2.5vw;
 }
 
 .view-btn-wrap-abt{
@@ -2633,8 +2642,8 @@ body.fade {
 .view-btn-abt{
   padding: 1vw 4.25vw;
   font-size: 4vw;
-  margin-left: 1vw;
+  /* margin-left: 1vw; */
   line-height: 35px;
-  max-width: 160px;
+  max-width: 185px;
 }
 }

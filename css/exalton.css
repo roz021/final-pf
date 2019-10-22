@@ -1330,6 +1330,7 @@ z-index: 3;
 
 .hero-ex{
   flex-direction: column;
+  align-items: center;
   margin-top: 15vw;
 }
 

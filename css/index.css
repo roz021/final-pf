@@ -431,7 +431,8 @@ html, body {
   top: 28vw;
   font-size: 1.2vw;
   /* font-size: 25px; */
-  white-space: nowrap;
+  width: 30vw;
+  white-space: normal;
 }
 
 #hero-logo{
@@ -1118,6 +1119,7 @@ html, body {
   font-size: 1.2vw;
   line-height: 1.8vw;
   margin-bottom: 4.5vw;
+  width: 45vw;
 }
 
 .about-right{
@@ -2580,6 +2582,10 @@ body.fade {
 .about-picture{
   width: 65%;
   height: auto;
+}
+
+.about-p{
+  width: 75vw;
 }
 
 .about-header{

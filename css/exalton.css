@@ -82,7 +82,7 @@ a{
 }
 
 #nav-icon3-ex {
-  z-index: 4;
+  z-index: 5;
   width: 40px;
   height: 30px;
   position: fixed;
@@ -170,7 +170,7 @@ a{
   height: 0;
   width: 100%;
   position: fixed;
-  z-index: 3;
+  z-index: 4;
   left: 0;
   top: 0;
   background-color: var(--main-tan);

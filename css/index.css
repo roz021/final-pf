@@ -2106,7 +2106,7 @@ body.fade {
   /* HERO */
 
   .hero{
-    height: 110vh;
+    height: 100vh;
   }
 
   .hero-container{
@@ -2231,7 +2231,7 @@ body.fade {
   }
   
   .view-btn-wrap{
-    margin-top: 0.5%;
+    display: none;
   }
   
   .view-btn-hero{

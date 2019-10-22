@@ -2088,6 +2088,16 @@ body.fade {
     }
 }
 
+
+
+
+
+
+
+
+
+
+
 @media only screen and (max-width:500px){
   .menu-wrapper{
     flex-direction: column;
@@ -2095,7 +2105,10 @@ body.fade {
 
   /* HERO */
 
-  
+  .hero{
+    height: 110vh;
+  }
+
   .hero-container{
     width: 80%;
     margin: auto;

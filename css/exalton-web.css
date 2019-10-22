@@ -1240,7 +1240,7 @@ z-index: 3;
 }
 
 .links{
-  font-size: 8.5vw;
+  font-size: 5.5vw;
   margin-bottom: 8.5vw;
 }
 
@@ -1251,6 +1251,11 @@ z-index: 3;
 .hero-ex{
   flex-direction: column;
   align-items: center;
+  margin-top: 15vw;
+}
+
+.hero-big-container{
+  height: 100%;
 }
 
 .left-banner-ex{
@@ -1258,11 +1263,11 @@ z-index: 3;
 }
 
 .right-banner-ex{
-  margin-top: 15vw;
+  margin-top: 12vw;
 }
 
 #ex-web-mock{
-  width: 50vw;
+  width: 55vw;
   max-height: 500vw;
   height: auto;
   margin-right: 0;
@@ -1271,7 +1276,7 @@ z-index: 3;
 .bottom-banner-ex{
   flex-direction: column;
   text-align: center;
-  margin-top: 0;
+  margin-top: 10vw;
 }
 
 

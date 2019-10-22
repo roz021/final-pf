@@ -1320,7 +1320,7 @@ z-index: 3;
 }
 
 .links{
-  font-size: 8.5vw;
+  font-size: 5.5vw;
   margin-bottom: 8.5vw;
 }
 
@@ -1330,6 +1330,11 @@ z-index: 3;
 
 .hero-ex{
   flex-direction: column;
+  margin-top: 15vw;
+}
+
+.hero-big-container{
+  height: 100%;
 }
 
 .left-banner-ex{

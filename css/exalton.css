@@ -187,6 +187,9 @@ a{
   justify-content: space-around;
 }
 
+.featured-menu, .archive-menu, .more, .social{
+  /* width: 50%; */
+}
 .menu-header{
   font-family: 'cereal-bold', sans-serif;
   color: var(--sec-white);
@@ -224,6 +227,7 @@ a{
   font-size: 0.8vw;
   letter-spacing: 0.025em;
   opacity: 0;
+  margin-bottom: 2.5vw;
 }
 
 .alert-appear{

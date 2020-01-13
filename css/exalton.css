@@ -622,6 +622,8 @@ transition: 0.25s;
 .personas{
   display: flex;
   justify-content: space-between;
+  margin-top: 7vw;
+  margin-bottom: 7vw;
 }
 
 .persona-graphic{

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="808" height="218" viewBox="0 0 808 218">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.072" x2="0.989" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7ba9de"/>
+      <stop offset="1" stop-color="#519aed"/>
+    </linearGradient>
+    <filter id="Rectangle_102" x="0" y="0" width="808" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#2068cb" flood-opacity="0.255"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_346" data-name="Group 346" transform="translate(-123.5 -5197.5)">
+    <g transform="matrix(1, 0, 0, 1, 123.5, 5197.5)" filter="url(#Rectangle_102)">
+      <rect id="Rectangle_102-2" data-name="Rectangle 102" width="763" height="173" transform="translate(17.5 17.5)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="Users_need_a_way_to_secure_files_after_having_shared_them_both_online_and_offline_so_that_they_can_have_peace_of_mind." data-name="Users need a way to secure files after having shared them both online
+and offline so that they can have peace of mind." transform="translate(523 5323)" fill="#f7f5f5" font-size="20" font-family="AirbnbCerealApp-Medium, Airbnb Cereal App" font-weight="500" letter-spacing="0.015em"><tspan x="-334.55" y="0">Users need a way to secure files after having shared them both online</tspan><tspan x="-231.09" y="25">and offline so that they can have peace of mind.</tspan></text>
+    <text id="Security" transform="translate(523 5283)" fill="#f7f5f5" font-size="35" font-family="AirbnbCerealApp-Bold, Airbnb Cereal App" font-weight="700" letter-spacing="0.015em"><tspan x="-71.698" y="0">Security</tspan></text>
+  </g>
+</svg>

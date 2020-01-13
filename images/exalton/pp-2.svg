@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="808" height="218" viewBox="0 0 808 218">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.072" x2="0.989" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7ba9de"/>
+      <stop offset="1" stop-color="#519aed"/>
+    </linearGradient>
+    <filter id="Rectangle_103" x="0" y="0" width="808" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#2068cb" flood-opacity="0.255"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_347" data-name="Group 347" transform="translate(-999.5 -5197.5)">
+    <g transform="matrix(1, 0, 0, 1, 999.5, 5197.5)" filter="url(#Rectangle_103)">
+      <rect id="Rectangle_103-2" data-name="Rectangle 103" width="763" height="173" transform="translate(17.5 17.5)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="Admins_need_a_way_to_maintain_full_control_over_files_in_their_network_So_that_they_can_ensure_an_efficient_workflow_from_start_to_finish." data-name="Admins need a way to maintain full control over files in their network
+So that they can ensure an efficient workflow from start to finish." transform="translate(1399 5323)" fill="#f7f5f5" font-size="20" font-family="AirbnbCerealApp-Medium, Airbnb Cereal App" font-weight="500" letter-spacing="0.015em"><tspan x="-330.05" y="0">Admins need a way to maintain full control over files in their network</tspan><tspan x="-314.78" y="25">So that they can ensure an efficient workflow from start to finish.</tspan></text>
+    <text id="Project_Asset_Management" data-name="Project/Asset Management" transform="translate(1399 5283)" fill="#f7f5f5" font-size="35" font-family="AirbnbCerealApp-Bold, Airbnb Cereal App" font-weight="700" letter-spacing="0.015em"><tspan x="-236.022" y="0">Project/Asset Management</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+
+@font-face{
+    font-family: 'cereal-bold';
+    src: url('../fonts/airbnb-cereal/AirbnbCereal-Bold.ttf');
+  }
+  
+  @font-face{
+    font-family: 'cereal-med';
+    src: url('../fonts/airbnb-cereal/AirbnbCereal-Medium.ttf');
+  }
+  
+  @font-face{
+    font-family: 'cereal-book';
+    src: url('../fonts/airbnb-cereal/AirbnbCereal-Book.ttf');
+  }
+  
+  
+  @font-face{
+    font-family: 'dm-reg';
+    src: url('../fonts/dm-serif/dmserifdisplay/DMSerifDisplay-Regular.ttf');
+  }
+  
+  @font-face{
+    font-family: 'tiempo-semi';
+    src: url('../fonts/tiempos-headline/TiemposHeadline-Semibold.otf');
+  }
+  

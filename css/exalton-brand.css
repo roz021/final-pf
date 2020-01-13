@@ -1,7 +1,7 @@
 /* ALL CASE STUDIES */
 
 :root{
-    --exalton-blue: #C6D5E6;
+  --exalton-blue: rgb(86, 141, 218);
     --main-purple: #A4B1E7;
     --main-charcoal: #262626;
     --main-white: #EBE8E8;
@@ -292,7 +292,7 @@
 
 .title{
     font-family: 'tiempo-semi', serif;
-    color: var(--main-charcoal);
+    color: var(--main-white);
     font-size: 5.5vw;
   }
   
@@ -304,7 +304,7 @@
   
   .header{
    font-family: 'cereal-med', sans-serif;
-   color: var(--main-black);
+   color: var(--main-white);
    font-size: 2vw;
   }
   
@@ -322,7 +322,7 @@
   
   .date{
    font-family: 'cereal-med', sans-serif;
-   color: var(--main-black);
+   color: var(--main-white);
    font-size: 1.2vw;
    margin-top: 1vw;
   }
@@ -368,7 +368,7 @@
   }
   
   .links{
-   font-family: 'tiempo-semi', serif;
+   font-family: 'cereal-med', serif;
    color: var(--main-black);
    font-size: 1.5vw;
   }
@@ -382,6 +382,7 @@
     left: 9.5vw;
     z-index: 4;
     transition: 0.25s;
+    color: var(--main-white);
   }
   
   #back-home-ex:hover{
@@ -453,6 +454,7 @@
     
       .hero-desc{
         margin-top: .5vw;
+        color: var(--main-white);
       }
     
     .right-banner-ex{
@@ -468,22 +470,52 @@
       margin-right: 10vw;
       height: auto;
     }
-    
+  
     .bottom-banner-ex{
-      width: 80%;
+      background-color: var(--main-white);
+      width: 60%;
+      padding: .5em .5em;
+      border-radius: 65px;
       margin: auto;
       display: flex;
-      justify-content: space-evenly;
-    }
-    
-    .bottom-banner-ex a:nth-child(3){
-      color: var(--main-white);
-    }
-    
-    .bottom-banner-ex a:hover{
-      color: var(--main-white);
+      justify-content: space-between;
+      -webkit-box-shadow: 5px 5px 10px 2px rgba(54, 54, 54, 0.1);
+      -moz-box-shadow: 5px 5px 10px 2px rgba(54, 54, 54, 0.1);;
+      box-shadow: 5px 5px 10px 2px rgba(54, 54, 54, 0.1);
+      
+      }
+      
+      .link-containers{
+        width: 12vw;
+        text-align: center;
+        background-color: var(--exalton-blue);
+        padding: .6em 0;
+        border-radius: 65px;
+      }
+      
+      .link-containers a{
+        color: var(--main-white);
+      }
+      
+      .link-containers-off{
+        width: 12vw;
+        text-align: center;
+        background-color: var(--main-white);
+        padding: .6em 0;
+        border-radius: 65px;
+      }
+      
+      .link-containers-off a:nth-child(1){
+        color: var(--main-charcoal)
+      }
+      
+      
+      
+      
+      .link-containers-off a:hover{
+      color: var(--exalton-blue);
       transition: 0.25s;
-    }
+      }
 
 
 .content-container{

@@ -709,7 +709,7 @@ html, body {
 .exalton-line{
   display: block;
   border: 0;
-  border-top: 5px solid #C6D5E6;
+  border-top: 5px solid #568DDA;
   margin: 1em 0;
   padding: 0;
   width: 8.5vw;
@@ -747,16 +747,16 @@ html, body {
 
 /* exalton button */
 .view-exalton{
-  border: 0 solid #C6D5E6;
+  border: 0 solid #568DDA;
   outline: 3px solid rgba(198, 213, 230, 0);
   /* border: 3px solid #C6D5E6; */
-  outline-color: #C6D5E6;
+  outline-color: #568DDA;
 
 }
 
 .view-exalton:hover{
-  color: #C6D5E6;
-  border: 3px solid #C6D5E6;
+  color: #568DDA;
+  border: 3px solid #568DDA;
   outline-color: rgba(198, 213, 230, 0); 
 }
 

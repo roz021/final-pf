@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="334.5" height="431" viewBox="0 0 334.5 431">
+  <g id="right-click-file" transform="translate(-719 -617)">
+    <g id="Rectangle_40" data-name="Rectangle 40" transform="translate(719 617)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="334" height="431" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="333" height="430" rx="9.5" fill="none"/>
+    </g>
+    <text id="Share" transform="translate(741 667)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Share</tspan></text>
+    <text id="Move_To" data-name="Move To" transform="translate(741 739)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Move To</tspan></text>
+    <text id="Add_to_Starred" data-name="Add to Starred" transform="translate(741 775)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Add to Starred</tspan></text>
+    <text id="Rename" transform="translate(741 811)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Rename</tspan></text>
+    <text id="Locate" transform="translate(741 847)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Locate</tspan></text>
+    <text id="View_Activity" data-name="View Activity" transform="translate(741 883)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">View Activity</tspan></text>
+    <text id="Manage_Smart_Contract" data-name="Manage Smart Contract" transform="translate(741 702)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Manage Smart Contract</tspan></text>
+    <text id="Version_History" data-name="Version History" transform="translate(741 919)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Version History</tspan></text>
+    <text id="Download" transform="translate(741 969)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Download</tspan></text>
+    <text id="Trash" transform="translate(741 1005)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Trash</tspan></text>
+    <line id="Line_11" data-name="Line 11" x2="334" transform="translate(719.5 938.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>

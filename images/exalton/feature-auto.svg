@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="895" height="680" viewBox="0 0 895 680">
+  <g id="adv-share" transform="translate(-711 -174)">
+    <g id="Rectangle_42" data-name="Rectangle 42" transform="translate(711 174)" fill="#f0f6ff" stroke="#707070" stroke-width="1">
+      <rect width="895" height="680" rx="26" stroke="none"/>
+      <rect x="0.5" y="0.5" width="894" height="679" rx="25.5" fill="none"/>
+    </g>
+    <text id="Style_Guide_Exalton" data-name="Style Guide Exalton" transform="translate(1009.96 226.62)" fill="#707070" font-size="35" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Style Guide Exalton</tspan></text>
+    <path id="_ionicons_svg_ios-close" d="M176.776,173.323l9.4-9.126a2.1,2.1,0,0,0,0-3.024,2.26,2.26,0,0,0-3.115,0l-9.4,9.126-9.4-9.126a2.26,2.26,0,0,0-3.115,0,2.089,2.089,0,0,0,0,3.024l9.4,9.126-9.4,9.126a2.089,2.089,0,0,0,0,3.024,2.26,2.26,0,0,0,3.115,0l9.4-9.126,9.4,9.126a2.26,2.26,0,0,0,3.115,0,2.1,2.1,0,0,0,0-3.024Z" transform="translate(579.5 42.694)" fill="#707070"/>
+    <g id="Group_13" data-name="Group 13" transform="translate(-7 214)">
+      <text id="Invite:" transform="translate(807 372)" fill="#707070" font-size="20" font-family="ProximaNova-Bold, Proxima Nova" font-weight="700"><tspan x="0" y="0">Invite:</tspan></text>
+      <text id="Enter_email_or_name" data-name="Enter email or name" transform="translate(893 372)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova" opacity="0.563"><tspan x="0" y="0">Enter email or name</tspan></text>
+    </g>
+    <line id="Line_12" data-name="Line 12" x1="755" transform="translate(785.5 617.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Create_Shareable_Link" data-name="Create Shareable Link" transform="translate(800 656)" fill="#707070" font-size="20" font-family="ProximaNova-Bold, Proxima Nova" font-weight="700"><tspan x="0" y="0">Create Shareable Link</tspan></text>
+    <g id="Rectangle_44" data-name="Rectangle 44" transform="translate(800 673)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="731" height="31" stroke="none"/>
+      <rect x="0.5" y="0.5" width="730" height="30" fill="none"/>
+    </g>
+    <g id="adv-share-btn" transform="translate(-7 214)">
+      <g id="Rectangle_45" data-name="Rectangle 45" transform="translate(1403 545)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="135" height="46" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="134" height="45" rx="7.5" fill="none"/>
+      </g>
+      <text id="Share" transform="translate(1444 575)" fill="#707070" font-size="20" font-family="ProximaNova-Bold, Proxima Nova" font-weight="700"><tspan x="0" y="0">Share</tspan></text>
+    </g>
+    <text id="Can_Edit" data-name="Can Edit" transform="translate(802 317)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Can Edit</tspan></text>
+    <text id="Can_Read" data-name="Can Read" transform="translate(802 375)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Can Read</tspan></text>
+    <text id="Can_Download_Print_and_Copy" data-name="Can Download, Print, and Copy" transform="translate(802 437)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Can Download, Print, and Copy</tspan></text>
+    <text id="Must_Be_On_Company_Server" data-name="Must Be On Company Server" transform="translate(802 495)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Must Be On Company Server</tspan></text>
+    <text id="Set_Geographical_Limit" data-name="Set Geographical Limit" transform="translate(1274 317)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Set Geographical Limit</tspan></text>
+    <text id="Password_Protection" data-name="Password Protection" transform="translate(1274 375)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Password Protection</tspan></text>
+    <text id="Expiration_Date" data-name="Expiration Date" transform="translate(1274 437)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Expiration Date</tspan></text>
+    <text id="Can_Share_File" data-name="Can Share File" transform="translate(1274 495)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Can Share File</tspan></text>
+    <g id="Rectangle_54" data-name="Rectangle 54" transform="translate(761 298)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="21" height="21" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20" height="20" fill="none"/>
+    </g>
+    <g id="Rectangle_61" data-name="Rectangle 61" transform="translate(1231 298)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="21" height="21" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20" height="20" fill="none"/>
+    </g>
+    <g id="Rectangle_55" data-name="Rectangle 55" transform="translate(761 356)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="21" height="21" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20" height="20" fill="none"/>
+    </g>
+    <g id="Rectangle_60" data-name="Rectangle 60" transform="translate(1231 356)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="21" height="21" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20" height="20" fill="none"/>
+    </g>
+    <g id="Rectangle_56" data-name="Rectangle 56" transform="translate(761 418)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="21" height="21" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20" height="20" fill="none"/>
+    </g>
+    <g id="Rectangle_59" data-name="Rectangle 59" transform="translate(1231 418)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="21" height="21" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20" height="20" fill="none"/>
+    </g>
+    <g id="Rectangle_57" data-name="Rectangle 57" transform="translate(761 476)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="21" height="21" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20" height="20" fill="none"/>
+    </g>
+    <g id="Rectangle_58" data-name="Rectangle 58" transform="translate(1231 476)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="21" height="21" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20" height="20" fill="none"/>
+    </g>
+  </g>
+</svg>

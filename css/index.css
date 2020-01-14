@@ -570,7 +570,7 @@ html, body {
 .line-f-projects{
   display: block;
   border: 0;
-  border-top: 0.2vw solid var(--main-purple);
+  border-top: 0.1vw solid rgb(201, 201, 201);
   margin: 1em 0;
   padding: 0;
   width: 50%;
@@ -594,7 +594,7 @@ html, body {
 .line-o-projects{
   display: block;
   border: 0;
-  border-top: 0.2vw solid var(--main-purple);
+  border-top: 0.1vw solid rgb(201,201,201);
   margin: 1em 0;
   padding: 0;
   width: 50%;
@@ -709,7 +709,7 @@ html, body {
 .exalton-line{
   display: block;
   border: 0;
-  border-top: 5px solid #568DDA;
+  border-top: 3px solid #568DDA;
   margin: 1em 0;
   padding: 0;
   width: 8.5vw;
@@ -798,7 +798,7 @@ html, body {
   .venmo-line{
     display: block;
     border: 0;
-    border-top: 5px solid #C0E5F5;
+    border-top: 3px solid #C0E5F5;
     margin: 1em 0;
     padding: 0;
     width: 8.5vw;
@@ -878,7 +878,7 @@ html, body {
 .tse-line{
   display: block;
   border: 0;
-  border-top: 5px solid rgb(250, 220, 136);
+  border-top: 3px solid rgb(250, 220, 136);
   margin: 1em 0;
   padding: 0;
   width: 8.5vw;
@@ -942,7 +942,7 @@ html, body {
 .sm-line{
   display: block;
   border: 0;
-  border-top: 5px solid rgb(223, 239, 236);
+  border-top: 3px solid rgb(223, 239, 236);
   margin: 1em 0;
   padding: 0;
   width: 8.5vw;

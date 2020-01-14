@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1342" height="1080" viewBox="0 0 1342 1080">
+  <g id="Group_108" data-name="Group 108" transform="translate(3259 22280)">
+    <text id="Search" transform="translate(-2794 -22211)" fill="#707070" font-size="20" font-family="ProximaNova-Bold, Proxima Nova" font-weight="700" opacity="0.593"><tspan x="0" y="0">Search</tspan></text>
+    <g id="Project-nav" transform="translate(-3260 -22280)">
+      <rect id="Rectangle_72" data-name="Rectangle 72" width="309" height="1080" transform="translate(397)" fill="#eaf2fd"/>
+      <circle id="Ellipse_23" data-name="Ellipse 23" cx="40" cy="40" r="40" transform="translate(414 197)" fill="#c6deff"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="40" cy="40" r="40" transform="translate(414 319)" fill="#c6deff"/>
+      <circle id="Ellipse_25" data-name="Ellipse 25" cx="40" cy="40" r="40" transform="translate(414 441)" fill="#c6deff"/>
+      <circle id="Ellipse_26" data-name="Ellipse 26" cx="40" cy="40" r="40" transform="translate(414 563)" fill="#c6deff"/>
+      <text id="New_Project" data-name="New Project" transform="translate(513 87)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">New Project</tspan></text>
+      <text id="Exalton_App" data-name="Exalton App" transform="translate(513 249)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Exalton App</tspan></text>
+      <text id="SoleMate" transform="translate(513 371)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">SoleMate</tspan></text>
+      <text id="TSE_Brand" data-name="TSE Brand" transform="translate(513 493)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">TSE Brand</tspan></text>
+      <text id="FitFam" transform="translate(513 615)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">FitFam</tspan></text>
+      <g id="Group_17" data-name="Group 17">
+        <circle id="Ellipse_22" data-name="Ellipse 22" cx="40" cy="40" r="40" transform="translate(414 35)" fill="#c6deff"/>
+        <text id="_" data-name="+" transform="translate(433 103)" fill="#707070" font-size="86" font-family="ProximaNova-Bold, Proxima Nova" font-weight="700"><tspan x="0" y="0">+</tspan></text>
+      </g>
+      <g id="Group_18" data-name="Group 18">
+        <rect id="Rectangle_73" data-name="Rectangle 73" width="272" height="30" rx="5" transform="translate(414 141)" fill="#fff"/>
+        <text id="Search_for_a_project_" data-name="Search for a project…" transform="translate(425 161)" fill="#707070" font-size="15" font-family="ProximaNova-Regular, Proxima Nova" opacity="0.586"><tspan x="0" y="0">Search for a project…</tspan></text>
+      </g>
+      <path id="_ionicons_svg_ios-close" d="M171,169.034l6.062-6.062a1.42,1.42,0,0,0-2.009-2.009l-6.062,6.062-6.062-6.062a1.42,1.42,0,1,0-2.009,2.009l6.062,6.062-6.062,6.062a1.42,1.42,0,1,0,2.009,2.009l6.062-6.062,6.062,6.062a1.42,1.42,0,0,0,2.009-2.009Z" transform="translate(508.403 -152.519)" fill="#707070"/>
+      <path id="_ionicons_svg_md-information-circle" d="M57.195,48a9.195,9.195,0,1,0,9.195,9.195A9.2,9.2,0,0,0,57.195,48Zm.928,13.792H56.266V56.266h1.857Zm0-7.338H56.266V52.6h1.857Z" transform="translate(619 183.61)" fill="#969696"/>
+      <path id="_ionicons_svg_md-information-circle-2" data-name="_ionicons_svg_md-information-circle" d="M57.195,48a9.195,9.195,0,1,0,9.195,9.195A9.2,9.2,0,0,0,57.195,48Zm.928,13.792H56.266V56.266h1.857Zm0-7.338H56.266V52.6h1.857Z" transform="translate(619 305.61)" fill="#969696"/>
+      <path id="_ionicons_svg_md-information-circle-3" data-name="_ionicons_svg_md-information-circle" d="M57.195,48a9.195,9.195,0,1,0,9.195,9.195A9.2,9.2,0,0,0,57.195,48Zm.928,13.792H56.266V56.266h1.857Zm0-7.338H56.266V52.6h1.857Z" transform="translate(619 427.61)" fill="#969696"/>
+      <path id="_ionicons_svg_md-information-circle-4" data-name="_ionicons_svg_md-information-circle" d="M57.195,48a9.195,9.195,0,1,0,9.195,9.195A9.2,9.2,0,0,0,57.195,48Zm.928,13.792H56.266V56.266h1.857Zm0-7.338H56.266V52.6h1.857Z" transform="translate(619 549.61)" fill="#969696"/>
+    </g>
+    <g id="Main-nav" transform="translate(-3259 -22280)">
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="396" height="1080" fill="#c6deff"/>
+      <g id="Group_24" data-name="Group 24">
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="40" cy="40" r="40" transform="translate(16 18)" fill="#eaf2fd"/>
+        <circle id="Ellipse_15" data-name="Ellipse 15" cx="40" cy="40" r="40" transform="translate(16 127)" fill="#eaf2fd"/>
+        <text id="Roy_Zhang" data-name="Roy Zhang" transform="translate(115 50)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Roy Zhang</tspan></text>
+        <text id="Company_Department" data-name="Company | Department" transform="translate(115 83)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova" opacity="0.586"><tspan x="0" y="0">Company | Department</tspan></text>
+        <line id="Line_20" data-name="Line 20" x2="396" transform="translate(0.5 112.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_21" data-name="Line 21" x2="396" transform="translate(0.5 221.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <text id="Exalton_App-2" data-name="Exalton App" transform="translate(115 179)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Exalton App</tspan></text>
+        <path id="_ionicons_svg_md-arrow-dropright" d="M192,128l7.5,7.5L192,143Z" transform="translate(95 37)" opacity="0.468"/>
+        <path id="_ionicons_svg_md-arrow-dropright-2" data-name="_ionicons_svg_md-arrow-dropright" d="M192,128l7.5,7.5L192,143Z" transform="translate(339.25 278.75) rotate(90)" opacity="0.468"/>
+        <rect id="Rectangle_17" data-name="Rectangle 17" width="217" height="81" rx="10" transform="translate(16 241)" fill="#fff"/>
+        <text id="New_File" data-name="New File" transform="translate(88 293)" fill="#707070" font-size="35" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">New File</tspan></text>
+        <text id="Dashboard" transform="translate(88 378)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Dashboard</tspan></text>
+        <text id="Teams" transform="translate(88 482)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Teams</tspan></text>
+        <text id="All_Files" data-name="All Files" transform="translate(88 534)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">All Files</tspan></text>
+        <text id="Starred" transform="translate(88 586)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Starred</tspan></text>
+        <text id="Recent" transform="translate(88 638)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Recent</tspan></text>
+        <text id="Trash" transform="translate(88 690)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Trash</tspan></text>
+        <line id="Line_22" data-name="Line 22" x2="396" transform="translate(0.5 709.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <text id="Storage" transform="translate(88 747)" fill="#707070" font-size="20" font-family="ProximaNova-Bold, Proxima Nova" font-weight="700"><tspan x="0" y="0">Storage</tspan></text>
+        <rect id="Rectangle_19" data-name="Rectangle 19" width="369" height="14" transform="translate(16 767)" fill="#fff"/>
+        <rect id="Rectangle_20" data-name="Rectangle 20" width="176" height="14" transform="translate(16 767)" fill="#96c3ff"/>
+        <text id="_10_GB_of_20_GB_used" data-name="10 GB of 20 GB used" transform="translate(102 804)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">10 GB of 20 GB used</tspan></text>
+        <text id="Upgrade" transform="translate(155 830)" fill="#707070" font-size="20" font-family="ProximaNova-Bold, Proxima Nova" font-weight="700"><tspan x="0" y="0">Upgrade</tspan></text>
+        <g id="_ionicons_svg_md-analytics" transform="translate(-1 309.77)">
+          <path id="Path_12" data-name="Path 12" d="M52.313,170.391l-5.1,7.8a2.778,2.778,0,0,1,.631,1.772,2.807,2.807,0,1,1-5.613,0,3.075,3.075,0,0,1,.047-.52l-3.368-1.959a2.789,2.789,0,0,1-1.947.784,2.822,2.822,0,0,1-1.38-.363L32,181.261v3.345a2.5,2.5,0,0,0,2.5,2.5H55.7a2.5,2.5,0,0,0,2.5-2.5V172.175L54.775,169.9a2.8,2.8,0,0,1-2.462.491Z" transform="translate(0 -114.772)" fill="#969696"/>
+          <path id="Path_13" data-name="Path 13" d="M36.97,57.882a2.807,2.807,0,0,1,2.807,2.807c0,.123-.012.246-.023.363l3.514,1.965a2.782,2.782,0,0,1,1.778-.631,2.937,2.937,0,0,1,.608.064l5.11-7.917a2.777,2.777,0,0,1-.52-1.625,2.807,2.807,0,1,1,5.613,0,3.05,3.05,0,0,1-.076.661L58.2,55.18V50.5A2.5,2.5,0,0,0,55.7,48H34.5A2.5,2.5,0,0,0,32,50.5V63.9l2.339-2.239a2.806,2.806,0,0,1,2.631-3.783Z" fill="#969696"/>
+        </g>
+        <g id="_ionicons_svg_md-contacts" transform="translate(-1.178 395.895)">
+          <path id="Path_14" data-name="Path 14" d="M45.033,134.118a7.691,7.691,0,0,1-7.579,0c-2.966.9-4.784,3.9-5.454,6.545H50.486C49.817,138.021,48,135.022,45.033,134.118Zm-3.79-14.083a6.658,6.658,0,1,0,6.66,6.658A6.659,6.659,0,0,0,41.243,120.035Zm0,11.729a5.145,5.145,0,0,1-4.654-3.178H45.9A5.146,5.146,0,0,1,41.243,131.764Z" transform="translate(0 -52.487)" fill="#969696"/>
+          <g id="Group_27" data-name="Group 27" transform="translate(45.321 64.025)">
+            <path id="Path_15" data-name="Path 15" d="M248.755,84.15h9.9a8.231,8.231,0,0,0-5.453-6.043,7.7,7.7,0,0,1-6.442.527A8.825,8.825,0,0,1,245,80.83,8.54,8.54,0,0,1,248.755,84.15Zm-1.01-11.573h6.321a5.134,5.134,0,0,1-4.654,3.163,4.782,4.782,0,0,1-1.6-.284,8.078,8.078,0,0,1-.41,1.58,6.662,6.662,0,1,0-3.607-9.924A8.229,8.229,0,0,1,247.745,72.577Z" transform="translate(-243.798 -64.025)" fill="#969696"/>
+          </g>
+        </g>
+        <path id="_ionicons_svg_md-document" d="M106.2,48H98.126A2.125,2.125,0,0,0,96,50.126V67.98a2.125,2.125,0,0,0,2.126,2.126h12.753A2.125,2.125,0,0,0,113,67.98V54.8Zm-.85,7.652V49.7l5.951,5.951Z" transform="translate(-60.279 467.137)" fill="#969696"/>
+        <path id="_ionicons_svg_md-star" d="M65,80.81l6.8,4.1L70,77.175l6-5.2-7.911-.679L65,64l-3.09,7.293L54,71.973l6,5.2-1.8,7.736Z" transform="translate(-19 503.089)" fill="#969696"/>
+        <g id="_ionicons_svg_md-time" transform="translate(-13 569.706)">
+          <path id="Path_16" data-name="Path 16" d="M59.489,48A11.5,11.5,0,1,0,71,59.5,11.5,11.5,0,0,0,59.489,48ZM59.5,68.7a9.2,9.2,0,1,1,9.2-9.2A9.2,9.2,0,0,1,59.5,68.7Z" fill="#969696"/>
+          <path id="Path_17" data-name="Path 17" d="M236.925,152H235.2v6.9l6.038,3.621.862-1.415-5.175-3.068Z" transform="translate(-176.85 -98.25)" fill="#969696"/>
+        </g>
+        <path id="_ionicons_svg_ios-trash" d="M118.824,67.495l1.289,15.873a1.6,1.6,0,0,0,1.6,1.6h7.7a1.6,1.6,0,0,0,1.6-1.6l1.272-15.873Zm3.363,14.469-.366-12.722h1.01l.377,12.722Zm3.839,0h-.983V69.242h.983Zm2.856,0h-1.016l.371-12.722h1.01Zm2.55-16.435h-1.966l-1.436-1.256A1.107,1.107,0,0,0,127.31,64h-3.538a1.124,1.124,0,0,0-.732.273L121.6,65.529h-1.966c-.961,0-1.638.459-1.638,1.42h15.07C133.07,65.988,132.393,65.529,131.432,65.529Z" transform="translate(-79.07 607.033)" fill="#969696"/>
+        <path id="_ionicons_svg_md-filing" d="M70.091,56.81H68.648V55.048L67.855,52.4h-1.41V50.643L65.62,48H53.286l-.826,2.643V52.4H51.05l-.793,2.643V56.81H48.815L48,59.453v9.1c0,1.294,1.938,2.351,3.232,2.351H68.56a2.426,2.426,0,0,0,2.351-2.258v-9.2l-.82-2.643ZM55.048,50.643h8.81V52.4h-8.81Zm-2.258,4.4H66.115V56.81H52.79Zm15.528,6.167H63.77a4.406,4.406,0,0,1-8.634,0H50.588V59.453h17.73Z" transform="translate(-12.911 677.995)" fill="#969696"/>
+        <path id="_ionicons_svg_md-add-circle" d="M67.1,48a19.1,19.1,0,1,0,19.1,19.1A19.1,19.1,0,0,0,67.1,48Zm9.828,21.034h-7.9v7.9H65.176v-7.9h-7.9V65.176h7.9v-7.9h3.858v7.9h7.9Z" transform="translate(-21 215)" fill="#969696"/>
+        <path id="_ionicons_svg_md-cloud-done" d="M45.166,105.119a11.286,11.286,0,0,0-21.1-3.015,9.032,9.032,0,0,0,.98,18.012H44.638a7.558,7.558,0,0,0,7.536-7.536A7.444,7.444,0,0,0,45.166,105.119ZM30.872,116.1l-5.627-5.627,2.251-2.251,3.376,3.376,8.361-8.361,2.251,2.251Z" transform="translate(10.533 314.493)" fill="#969696"/>
+        <text id="Approvals" transform="translate(88 430)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Approvals</tspan></text>
+      </g>
+    </g>
+    <g id="Group_107" data-name="Group 107" transform="translate(-976 -21.552)">
+      <rect id="Rectangle_16-2" data-name="Rectangle 16" width="606" height="470" transform="translate(-1547 -21953.449)" fill="#c6deff"/>
+      <g id="teams-2" data-name="teams" transform="translate(-1502.645 -21862.76)">
+        <path id="_ionicons_svg_md-arrow-dropright-3" data-name="_ionicons_svg_md-arrow-dropright" d="M0,0,11.471,11.471,0,22.942Z" transform="translate(465.346 158.684) rotate(90)" opacity="0.468"/>
+        <g id="join-team" transform="translate(1.529 0)">
+          <rect id="Rectangle_25" data-name="Rectangle 25" width="183" height="50" rx="5" transform="translate(0.115 0.311)" fill="#fff"/>
+          <text id="Join_a_Team" data-name="Join a Team" transform="translate(24.115 32.311)" fill="#707070" font-size="24" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Join a Team</tspan></text>
+        </g>
+        <g id="create-team" transform="translate(209.539 0)">
+          <rect id="Rectangle_62" data-name="Rectangle 62" width="183" height="50" rx="5" transform="translate(0.106 0.311)" fill="#fff"/>
+          <text id="Create_a_Team" data-name="Create a Team" transform="translate(14.106 32.311)" fill="#707070" font-size="24" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Create a Team</tspan></text>
+        </g>
+        <g id="search-team" transform="translate(0 71.886)">
+          <rect id="Rectangle_26" data-name="Rectangle 26" width="393" height="50" rx="5" transform="translate(-0.355 0.426)" fill="#fff"/>
+          <text id="Search_for_a_team" data-name="Search for a team" transform="translate(12.645 32.426)" fill="#707070" font-size="25" font-family="ProximaNova-Regular, Proxima Nova" opacity="0.513"><tspan x="0" y="0">Search for a team</tspan></text>
+        </g>
+        <text id="Product_Development" data-name="Product Development" transform="translate(103.645 175.311)" fill="#707070" font-size="30" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Product Development</tspan></text>
+        <text id="Business_Development" data-name="Business Development" transform="translate(103.645 364.311)" fill="#707070" font-size="30" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Business Development</tspan></text>
+        <g id="Group_25" data-name="Group 25" transform="translate(140.713 192.715)" opacity="0.999">
+          <text id="UX_UI_Design" data-name="UX/UI Design" transform="translate(-0.068 29.596)" fill="#707070" font-size="33" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">UX/UI Design</tspan></text>
+          <text id="Frontend_Dev" data-name="Frontend Dev" transform="translate(-0.068 80.596)" fill="#707070" font-size="33" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Frontend Dev</tspan></text>
+          <text id="Business_Design" data-name="Business Design" transform="translate(-0.068 130.596)" fill="#707070" font-size="33" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Business Design</tspan></text>
+        </g>
+      </g>
+      <path id="_ionicons_svg_md-arrow-dropright-4" data-name="_ionicons_svg_md-arrow-dropright" d="M0,0,11.471,11.471,0,22.942Z" transform="translate(-1223.896 -21916.674) rotate(90)" opacity="0.468"/>
+      <text id="Teams-3" data-name="Teams" transform="translate(-1412 -21899.449)" fill="#707070" font-size="30" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Teams</tspan></text>
+      <g id="_ionicons_svg_md-contacts-2" data-name="_ionicons_svg_md-contacts" transform="translate(-1499.858 -21933.24)">
+        <path id="Path_14-2" data-name="Path 14" d="M51.933,141.574a11.763,11.763,0,0,1-11.592,0c-4.537,1.384-7.317,5.97-8.341,10.01H60.274C59.251,147.545,56.471,142.958,51.933,141.574Zm-5.8-21.539a10.183,10.183,0,1,0,10.186,10.183A10.185,10.185,0,0,0,46.137,120.035Zm0,17.94a7.87,7.87,0,0,1-7.118-4.86H53.255A7.87,7.87,0,0,1,46.137,137.975Z" transform="translate(-32 -114.647)" fill="#969696"/>
+        <g id="Group_27-2" data-name="Group 27" transform="translate(20.375 0)">
+          <path id="Path_15-2" data-name="Path 15" d="M251.379,94.806H266.52a12.589,12.589,0,0,0-8.341-9.242,11.771,11.771,0,0,1-9.853.806,13.5,13.5,0,0,1-2.691,3.358A13.062,13.062,0,0,1,251.379,94.806Zm-1.545-17.7H259.5a7.852,7.852,0,0,1-7.118,4.838,7.315,7.315,0,0,1-2.441-.434,12.353,12.353,0,0,1-.627,2.416A10.189,10.189,0,1,0,243.8,68.747,12.586,12.586,0,0,1,249.834,77.106Z" transform="translate(-243.798 -64.025)" fill="#969696"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

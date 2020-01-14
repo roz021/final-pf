@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="501.541" height="900" viewBox="0 0 501.541 900">
+  <g id="Group_472" data-name="Group 472" transform="translate(-1467 -180)">
+    <g id="Rectangle_31" data-name="Rectangle 31" transform="translate(1467 180)" fill="#edf4fe" stroke="#707070" stroke-width="1">
+      <path d="M20,0H501.541a0,0,0,0,1,0,0V900a0,0,0,0,1,0,0H20A20,20,0,0,1,0,880V20A20,20,0,0,1,20,0Z" stroke="none"/>
+      <path d="M20,.5H500.541a.5.5,0,0,1,.5.5V899a.5.5,0,0,1-.5.5H20A19.5,19.5,0,0,1,.5,880V20A19.5,19.5,0,0,1,20,.5Z" fill="none"/>
+    </g>
+    <text id="Front-end_skeleton" data-name="Front-end skeleton" transform="translate(1539 221)" fill="#707070" font-size="43" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Front-end skeleton</tspan></text>
+    <path id="_ionicons_svg_ios-close" d="M171.811,169.692l6.532-6.532A1.531,1.531,0,1,0,176.179,161l-6.532,6.532L163.115,161a1.531,1.531,0,1,0-2.165,2.165l6.532,6.532-6.532,6.532a1.531,1.531,0,1,0,2.165,2.165l6.532-6.532,6.532,6.532a1.531,1.531,0,1,0,2.165-2.165Z" transform="translate(1325.5 36.481)" fill="#707070"/>
+    <text id="Information" transform="translate(1523 275)" fill="#707070" font-size="25" font-family="ProximaNova-Extrabld, Proxima Nova"><tspan x="0" y="0">Information</tspan></text>
+    <text id="Activity" transform="translate(1822.541 275)" fill="#707070" font-size="25" font-family="ProximaNova-Extrabld, Proxima Nova"><tspan x="0" y="0">Activity</tspan></text>
+    <line id="Line_8" data-name="Line 8" x1="116.541" transform="translate(1808.5 282.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="Rectangle_154" data-name="Rectangle 154" transform="translate(1520.541 300)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="100" height="43" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="99" height="42" rx="4.5" fill="none"/>
+    </g>
+    <g id="Rectangle_155" data-name="Rectangle 155" transform="translate(1810.541 300)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="100" height="43" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="99" height="42" rx="4.5" fill="none"/>
+    </g>
+    <g id="Rectangle_156" data-name="Rectangle 156" transform="translate(1665.541 300)" fill="#c6deff" stroke="#707070" stroke-width="1">
+      <rect width="100" height="43" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="99" height="42" rx="4.5" fill="none"/>
+    </g>
+    <text id="Edits" transform="translate(1549.541 329)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Edits</tspan></text>
+    <text id="Shares" transform="translate(1685.541 329)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Shares</tspan></text>
+    <text id="All" transform="translate(1849.541 329)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">All</tspan></text>
+    <line id="Line_30" data-name="Line 30" x2="449" transform="translate(1493.041 365.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Ellipse_56" data-name="Ellipse 56" transform="translate(1493.541 412)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="35" cy="35" r="35" stroke="none"/>
+      <circle cx="35" cy="35" r="34.5" fill="none"/>
+    </g>
+    <g id="Ellipse_57" data-name="Ellipse 57" transform="translate(1493.541 543)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="35" cy="35" r="35" stroke="none"/>
+      <circle cx="35" cy="35" r="34.5" fill="none"/>
+    </g>
+    <g id="Ellipse_64" data-name="Ellipse 64" transform="translate(1493.541 674)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="35" cy="35" r="35" stroke="none"/>
+      <circle cx="35" cy="35" r="34.5" fill="none"/>
+    </g>
+    <g id="Ellipse_65" data-name="Ellipse 65" transform="translate(1493.541 805)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="35" cy="35" r="35" stroke="none"/>
+      <circle cx="35" cy="35" r="34.5" fill="none"/>
+    </g>
+    <g id="Ellipse_66" data-name="Ellipse 66" transform="translate(1493.541 936)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="35" cy="35" r="35" stroke="none"/>
+      <circle cx="35" cy="35" r="34.5" fill="none"/>
+    </g>
+    <text id="So_and_so_shared_with_" data-name="So and so shared with…" transform="translate(1590.541 441)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">So and so shared with…</tspan></text>
+    <text id="So_and_so_shared_with_2" data-name="So and so shared with…" transform="translate(1590.541 572)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">So and so shared with…</tspan></text>
+    <text id="So_and_so_shared_with_3" data-name="So and so shared with…" transform="translate(1590.541 703)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">So and so shared with…</tspan></text>
+    <text id="So_and_so_shared_with_4" data-name="So and so shared with…" transform="translate(1590.541 834)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">So and so shared with…</tspan></text>
+    <text id="So_and_so_shared_with_5" data-name="So and so shared with…" transform="translate(1590.541 965)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">So and so shared with…</tspan></text>
+    <text id="Apr_15_2019" data-name="Apr 15, 2019" transform="translate(1493.541 398)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Apr 15, 2019</tspan></text>
+    <text id="Apr_12_2019" data-name="Apr 12, 2019" transform="translate(1493.541 529)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Apr 12, 2019</tspan></text>
+    <text id="Apr_10_2019" data-name="Apr 10, 2019" transform="translate(1493.541 660)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Apr 10, 2019</tspan></text>
+    <text id="Apr_8_2019" data-name="Apr 8, 2019" transform="translate(1493.541 791)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Apr 8, 2019</tspan></text>
+    <text id="Apr_3_2019" data-name="Apr 3, 2019" transform="translate(1493.541 922)" fill="#707070" font-size="20" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Apr 3, 2019</tspan></text>
+  </g>
+</svg>

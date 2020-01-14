@@ -1447,8 +1447,19 @@ z-index: 3;
 .bottom-banner-ex{
   flex-direction: column;
   text-align: center;
-  margin-top: 0;
+  margin-top: 10vw;
+  border-radius: 15px;
+  align-items: center;
+  white-space: nowrap;
+  margin-bottom: 10vw;
 }
+
+.link-containers, .link-containers-off{
+  width: auto;
+  padding: 0.6em 3em;
+  border-radius: 15px;
+}
+
 
 
 /* CONTENT */

@@ -445,7 +445,8 @@ html, body {
 }
 
 .hero-left, .hero-right{
-  margin-top: 5vw;
+  margin-top: 3.5vw;
+  height: 100vh;
 }
 .hero-left{
   position: relative;

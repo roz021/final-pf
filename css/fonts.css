@@ -24,4 +24,30 @@
     font-family: 'tiempo-semi';
     src: url('../fonts/tiempos-headline/TiemposHeadline-Semibold.otf');
   }
+ 
   
+  @media only screen and (max-width:1450px) and (min-width: 501px){
+
+    /* fonts */
+  
+    .content{
+      font-size: 1.8vw;
+    }
+  
+    .section{
+      font-size: 2.5vw;
+    }
+  
+    .bold-content{
+      font-size: 2vw;
+    }
+  
+    .italic-content{
+      font-size: 1.8vw;
+    }
+  
+    .bold-italic-content{
+      font-size: 1.8vw;
+    }
+
+  }

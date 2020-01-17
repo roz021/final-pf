@@ -695,6 +695,7 @@ html, body {
   top: -3.5vw;
   left: 5%;
   z-index: 1;
+  line-height: 1.8em;
 }
 
 .exalton-caption, .tse-caption, .venmo-caption, .sm-caption{
@@ -2361,7 +2362,7 @@ body.fade {
   }
 
   .line{
-    display: none;
+    /* display: none; */
   }
   
   .featured{

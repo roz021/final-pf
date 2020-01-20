@@ -657,6 +657,7 @@ transition: 0.25s;
 .pp{
   width: 50%;
   height: auto;
+  padding: 1em;
 }
 
 .personas{

@@ -8,7 +8,7 @@
     --sec-white: #B4B4B4;
     --main-black: #555555;
     --sec-black: #6F6F6F;
-    --num-gray: rgba(111,111,111,.17);
+    --num-gray: rgba(111, 111, 111, 0.17);
     --main-tan: #FFFBF4;
     --main-gray: #B4B4B4;
   }
@@ -349,6 +349,14 @@
     font-size: 1.2vw;
     width: 50vw;
    }
+
+
+.bold-reg{
+  font-family: 'cereal-bold', sans-serif;
+  color: var(--main-black);
+  font-size: 1vw;
+  width: 50vw;
+}
   
   .italic-content{
     font-family: 'Roboto', sans-serif;
@@ -625,10 +633,17 @@
   height: auto;
 }
 
+
+.med-graphic{
+  width: 60%;
+  height: auto;
+}
+
 .full-graphic{
   width: 100%;
   height: auto;
 }
+
 
 .s-c-graphic{
   width: 50%;
@@ -653,6 +668,7 @@
 
 .has-footer{
   text-align: center;
+  width: 100%;
 }
 
 .wire-graphic{
@@ -936,6 +952,77 @@ z-index: 3;
   height: auto;
 }
 
+/* CSS FOR LIGHTBOX */
+
+
+/* The Modal (background) */
+.wireModal, .hifiModal {
+  display: none;
+  position: fixed;
+  z-index: 5;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: black;
+}
+
+/* Modal Content */
+.wire-modal-content, .hifi-modal-content {
+  position: relative;
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+  padding: 0;
+  width: 50%;
+  max-width: 1200px;
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  position: fixed;
+  top: 25px;
+  right: 50px;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #999;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.wireSlides, .hifiSlides {
+  display: none;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+
+.wire-lightbox-preview, .hifi-lightbox-preview{
+  width: 100%;
+}
+
+.wireSlides, .hifiSlides{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.wire-large, .hifi-large{
+  width: 60vw;
+}
+
 
 /* RESPONSIVE */
 
@@ -946,6 +1033,10 @@ z-index: 3;
     font-size: 1.8vw;
   }
 
+  .bold-reg{
+    font-size: 1.8vw;
+  }
+  
   .section{
     font-size: 2.5vw;
   }
@@ -1364,6 +1455,11 @@ z-index: 3;
 .bold-content{
   font-size: 3.5vw;
   width: 80vw;
+}
+
+
+.bold-reg{
+  font-size: 2.5vw;
 }
 
 .italic-content, .bold-italic-content{

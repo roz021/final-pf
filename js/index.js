@@ -1,6 +1,11 @@
 
 // HAMBURGER ICON
 $(document).ready(function () {
+
+
+
+
+
     $('#nav-icon3').click(function () {
         if ($(this).hasClass('open')) {
             document.getElementById("menu").style.height = "0%";
@@ -232,5 +237,6 @@ $(document).ready(function () {
             }
 
         })
+
 
     });

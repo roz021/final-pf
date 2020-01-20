@@ -15,7 +15,6 @@
     <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script defer src="../js/index.js"></script>
-
     <title>Exalton Website</title>
 </head>
 
@@ -127,21 +126,38 @@
 
         <div class="content-container">
 
-
-                <div class="overview-section section-gap top-gap-xl">
+                    <div class="overview-section section-gap top-gap-xl">
                         <div class="text-layout wow fadeInUp">
                             <h3 class="section">Overview</h3>
-                            <p class="content">Exalton is a file management platform that is leveraging emerging technologies to bring in a new wave of collaboration. Since each organization tends to work isolated in their own world, we found that innovation begins bottlenecking at trust. Now, imagine a world where anyone, anywhere, can collaborate with each other without the risk of piracy or theft. This is the world Exalton means to create.
-                                    <br><br>
-                                    Once we had an initial prototype for our desktop app, I was tasked with redesigning their website into something the founders felt comfortable displaying to investors and at conventions. Since both founders were off on summer internships we gave ourselves most of the summer to craft our website.                        </div>
+                            <p class="content"> 
+                                <span class="bold-content">Context</span><br><br>
+                                Once we had an initial prototype for our desktop app, I was tasked with redesigning their 
+                                website into something the founders felt comfortable displaying to investors and at conventions. 
+                                Since both founders were off on summer internships we gave ourselves most of the summer to craft 
+                                our website.
+                                <br><br><br>
+                                <span class="bold-content">Problem</span><br><br>
+                                Once I completed the initial designs for our POC, I was tasked with designing a company website 
+                                for Exalton. Up until this point, they only had a minimal website detailing a bit about the company 
+                                and who the CEO and CTO were. Now that we almost had a POC completed, we also needed a website that
+                                 we could use to build an online presence and market our product.
+                                <br><br><br>
+                                <span class="bold-content">Solution</span><br><br>
+                                I spent the next two months researching and designing the Exalton website. By expanding further on the
+                                 brand the Exalton website also became a huge milestone in understanding the look and feel of Exalton
+                                  as a whole. By using custom, isometric illustrations and an overall modern aesthetic, we hoped to
+                                 show that we can compete with other well-known companies.
+                                </p>
+                        </div>
                     </div>
+
 
                 <div class="process-section section-gap">
                     <div class="text-layout wow fadeInUp">
                     <h2 class="section">Design Process</h2>
                     </div>
 
-                    <img src="../images/exalton/website/design-process.svg" class="process-graphic wow fadeInUp">
+                    <img src="../images/exalton/website/design-process.png" class="process-graphic wow fadeInUp">
                 </div>
 
                 <div class="empathize-section section-gap">
@@ -265,7 +281,14 @@
                             <div class="wire-section inner-gap">
                                 <div class="text-layout wow fadeInUp">
                                     <h3 class="section">Wireframes</h3>
-                                    <p class="content">I converted some early sketches into wireframes with additional labels so that the executive members can have a better idea of what text should be placed where. </p>
+                                    <p class="content">I began converting early sketches into wireframes with additional 
+                                        labels so other team members can have a better idea of what the copy should look like.<br><br>
+
+                                        I decided to pursue a mobile first design ideology so I created the mobile wireframes first. We 
+                                        ran into some issues with creating the copy for our site because our CEO and CTO couldn’t gauge
+                                         how much to write through the mobile screens so I decided to create very rough web wireframe 
+                                         with additional labels to help them with those. 
+                                        </p>
                                 </div>
 
                                 <div class="wire-image-wrapper top-gap">
@@ -273,13 +296,139 @@
                                         <img src="../images/exalton/website/home-wire.png" class="wire-graphic">
                                         <p class="image-footer">Home page wireframe</p>
                                     </div>
+                                    <div class="flex-gap-holder"></div> 
                                     <div class="has-footer">
                                         <img src="../images/exalton/website/about-wire.png" class="wire-graphic">
                                         <p class="image-footer">About page wireframe</p>
                                     </div>
                                 </div>
+
+                                
+                                <div class="wire-lightbox top-gap has-footer">
+                                    <img class="wire-lightbox-preview" src="../images/exalton/website/wire-preview.png" onclick="openModal();currentSlide(1)">
+                                    <p class="image-footer">Click in to view full mobile wires.</p>
+                                </div>
+                                
+                                <div id="wire-modal" class="wireModal">
+                                 
+
+                                    <span class="close cursor" onclick="closeModal()">&times;</span>
+                                    <div class="wire-modal-content">
+
+
+                                        <div class="wireSlides">
+                                            <img src="../images/exalton/website/mobile-wires.svg" class="wire-large" id="homewire" alt="Home Page Wireframe">
+                                        </div>
+                                    
+
+                                    
+
+
+                                    </div>
+                                </div>
                             </div>
 
+                            <div class="hifi-section inner-gap">
+                                <div class="text-layout wow fadeInUp">
+                                    <h3 class="section">Hi-Fidelity</h3>
+                                    <p class="content">We were in a bit of a rush because we wanted to get out a site for a 
+                                        conference that sprung up at a week’s notice so I immediately converted the wireframes
+                                         to hi-fidelity without that much testing. A decision that (spoiler alert!) I will regret later.
+                                        </p>
+                                </div>
+                                
+                                <div class="hifi-lightbox top-gap has-footer">
+                                    <img class="hifi-lightbox-preview" src="../images/exalton/website/hifi-preview.png" onclick="openModalHi();currentSlide(1)">
+                                    <p class="image-footer">Click in to view full mobile screens.</p>
+                                </div>
+                                
+                                <div id="hifi-modal" class="hifiModal">
+                                 
+
+                                    <span class="close cursor" onclick="closeModalHi()">&times;</span>
+                                    <div class="hifi-modal-content">
+
+
+                                        <div class="hifiSlides">
+                                            <img src="../images/exalton/website/hi-fi-full.svg" class="hifi-large" id="homewire" alt="Home Page Hifi">
+                                        </div>
+                                    
+
+                                    
+
+
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                            <div class="usertest-section inner-gap">
+                                <div class="text-layout wow fadeInUp">
+                                    <h3 class="section">User Testing</h3>
+                                    <p class="content">
+                                        After the conference I had time to revise the site. Since I already had the live site 
+                                        I began testing with that. We ran into two big issues with our site: <span class="bold-reg">content and layout.</span>
+                                         On both the landing and product page our copy was not as user friendly as we had thought.
+                                          Too much technical jargon littered the feature highlights on the product page, and text 
+                                          within the landing page which is supposed to be a very friendly and light introduction 
+                                          to our product was confusing and again, <span class="bold-reg">too techincal to understand.</span><br><br>
+
+                                          The other big problem was with layout, specifically on the home page.<span class="bold-reg"> Things 
+                                          that looked good on the web version didn’t look as good on mobile screens</span>, an
+                                           issue that I should’ve caught through user testing on mobile screens. Based 
+                                           off of this I went back and did just that, testing heavily on mobile versions
+                                            of the site to guide my decisions on the web version. 
+                                    </p>
+                                </div>
+
+                                <div class="wire-image-wrapper top-gap">
+                                    <div class="has-footer">
+                                        <img src="../images/exalton/website/first-test.svg" class="med-graphic">
+                                        <p class="image-footer">Some issues on the home screen</p>
+                                    </div>
+                                
+                                </div>
+
+                            </div>
+
+                            <div class="abtest-section inner-gap">
+                                <div class="text-layout wow fadeInUp">
+                                    <h3 class="section">More Testing</h3>
+                                    <p class="content">
+                                        Based off of these tests I created a second version of the home page and conducted A/B tests.
+                                         The first A/B test was simply on content. We wanted to see how digestible our copy was now compared 
+                                         to the initial version. The second A/B test was on our home page design. I asked qualitative questions
+                                          such as “How did you feel about the sites?”, “Did anything interest you?”, and “Which version did you 
+                                          prefer between the two?”
+                                    </p>
+                                </div>
+
+                                <div class="wire-image-wrapper top-gap">
+                                    <div class="has-footer">
+                                        <img src="../images/exalton/website/ab-test.svg" class="med-graphic">
+                                    </div>
+                                
+                                </div>
+                              
+
+                            </div>
+
+                            <div class="testresults inner-gap">
+                                <div class="text-layout wow fadeInUp">
+                                    <h3 class="section">Results</h3>
+                                    <p class="content">
+                                        Our feedback from these tests were generally positive. <span class="bold-reg">The text was a lot more 
+                                            understandable, </span>
+                                        even to the average joe. However, it was not perfect. Some sections such as endorsements on the
+                                         product page still confused readers, and the <span class="bold-reg">use cases on our home page seemed a bit too niche</span>
+                                          for our target audience (why isolate four industries when your platform is clearly targeting more?). 
+                                          <br><br>
+                                          Users also preferred the second version of the homepage layout better than the first.
+                                           Users felt that the site felt more together, and the <span class="bold-reg">content flowed from one section
+                                            to the next, </span>compared to the initial version which felt very blocky and isolated.
+                                    </p>
+                                </div>
+                            </div>
                            <div class="decision-section section-gap">
                                <div class="header-left inner-gap">
                                    <h3 class="section">Design Decisions</h3>
@@ -333,40 +482,61 @@
 
                                <div class="final-section inner-gap">
                                    <div class="text-layout wow fadeInUp">
-                                       <h3 class="section">Final Prototype</h3>
+                                       <h3 class="section">Final Design</h3>
                                    </div>
 
                                    <div class="final-wrapper row-flx top-gap">
                                        <div class="final-left column-flx">
                                            <div class="landing-wrap column-flx">
                                                <h3 class="section">LANDING</h3>
-                                               <img src="../images/exalton/website/landing.svg" style="width: 70%; height: auto">
+                                               <img src="../images/exalton/website/home.svg" style="width: 35vw; height: auto">
                                            </div>
                                            <div class="about-wrap column-flx top-gap">
                                                <h3 class="section">ABOUT</h3>
-                                               <img src="../images/exalton/website/about.svg" style="width: 70%; height: auto">
+                                               <img src="../images/exalton/website/about.svg" style="width: 35vw; height: auto">
                                            </div>
                                        </div>
                                        <div class="final-right column-flx">
                                            <div class="product-wrap column-flx">
                                                <h3 class="section">PRODUCT</h3>
-                                               <img src="../images/exalton/website/product.svg" style="width: 70%; height: auto">
+                                               <img src="../images/exalton/website/product.png" style="width: 35vw; height: auto">
                                            </div>
                                            <div class="pricing-wrap column-flx top-gap">
                                                <h3 class="section">PRICING</h3>
-                                               <img src="../images/exalton/website/pricing.svg" style="width: 70%; height: auto">
+                                               <img src="../images/exalton/website/pricingtest.svg" style="width: 35vw; height: auto">
                                            </div>
                                        </div>
                                    </div>
                                </div>
 
                                <div class="reflection inner-gap">
-                                   <div class="text-layout wow fadeInUp">
-                                       <h3 class="section">Reflection</h3>
-                                       <p class="content">We are currently still in development for the website and I plan to incorporate responsive designs in the coming weeks. Once the site is live I also plan to do more analytics on the site just to gauge the level of traffic and how we can improve more on the design. 
-                                            <br><br>
-                                            I definitely feel like I learned a lot from this project, especially in terms of finding a balance between too little and too much content. I think trying to balance the content with the UI and our overall goals for the website was also a big teaching tool for myself. </p>
-                                   </div>
+                                <div class="text-layout wow fadeInUp">
+                                    <h3 class="section">Project Learnings</h3>
+                                    <p class="content"><span class="bold-content">Steal Like an Artist<br><br></span>
+                                        Since I didn’t have all that much experience in graphic design, coming up with and creating 
+                                        our custom illustrations was a big mountain to climb. I had to use a lot of references on 
+                                        sites such as Dribbble, Pinterest, and even Google Images. Being able to have inspirations
+                                         to build off of and make into my own helped a lot in the process and I definitely learned 
+                                         a ton about using images off of the internet as inspirations rather than a stencil. 
+                                        <br><br><br>
+                
+                                        <span class="bold-content">Teamwork Makes the Dream Work<br><br></span>
+                                        Going through the design process validated my belief that teamwork is key, even if other 
+                                        team members aren’t in a design-centric major. Coming up with the visuals and layout for 
+                                        the site was a culmination of all of our opinions and as we kept having meetings and iterating 
+                                        through the design I was able to finalize something all of us enjoyed.
+                                        <br><br><br><br>
+                                        <span class="bold-content">Next Steps<br><br></span>
+                                        Although our team is happy with the website design, I personally still think there is 
+                                        more room to grow. I wanted to veer away from the “Silicon Valley/Start Up” aesthetic 
+                                        with pastel colors and minimal artwork or photography. After browsing through dozens 
+                                        of websites for inspiration I noticed that a lot of them looked very similar to each 
+                                        other (pastel colors, minimal photographic direction, and those abstract humanoid figures). 
+                                        The ones that stood out to me are those with very well put together videos, 3D renderings, 
+                                        and interactive backgrounds. I hope in the coming months to grow my skills as a designer t
+                                        o learn how to do more with new tools so I can add more unique elements to Exalton’s brand.
+                                    </p>
+                                </div>
                                </div>
 
                            </div> 
@@ -440,6 +610,50 @@
         <script type="text/javascript" src="../js/wow.js"></script>
         <script>
             new WOW().init();
+        </script>
+
+        <script type="text/javascript">
+        
+    function openModal() {
+        document.getElementById("wire-modal").style.display = "block";
+      }
+      
+      function closeModal() {
+        document.getElementById("wire-modal").style.display = "none";
+      }
+
+      function openModalHi() {
+        document.getElementById("hifi-modal").style.display = "block";
+      }
+      
+      function closeModalHi() {
+        document.getElementById("hifi-modal").style.display = "none";
+      }
+      
+      
+      var slideIndex = 1;
+      showSlides(slideIndex);
+      
+      function plusSlides(n) {
+        showSlides(slideIndex += n);
+      }
+      
+      function currentSlide(n) {
+        showSlides(slideIndex = n);
+      }
+      
+      function showSlides(n) {
+        var i;
+        var slides = document.getElementsByClassName("wireSlides");
+        var captionText = document.getElementById("caption");
+        if (n > slides.length) {slideIndex = 1}
+        if (n < 1) {slideIndex = slides.length}
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+        slides[slideIndex-1].style.display = "block";
+      }
+
         </script>
 
         </body>

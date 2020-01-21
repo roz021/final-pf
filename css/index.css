@@ -315,6 +315,7 @@ html, body {
   font-size: 1.5vw;
   letter-spacing: 0.1em;
   margin-bottom: 2vw;
+  cursor: default;
 }
 
 .menu-proj-head{
@@ -413,7 +414,8 @@ html, body {
   font-family: 'cereal-bold', sans-serif;
   color: var(--main-white);
   font-size: 2.3vw;
-  margin-top: 24vw;
+  position: absolute;
+  top: 24vw;
   white-space: nowrap;
 }
 
@@ -431,7 +433,7 @@ html, body {
   top: 28vw;
   font-size: 1.2vw;
   /* font-size: 25px; */
-  width: 30vw;
+  width: 35vw;
   white-space: normal;
 }
 
@@ -445,11 +447,21 @@ html, body {
 }
 
 .hero-left, .hero-right{
-  margin-top: 3.5vw;
+  /* margin-top: 2.5vw; */
   height: 100vh;
 }
 .hero-left{
   position: relative;
+  margin-top: 3.5vw;
+  width: 50vw;
+  top: 2vw;
+  /* left: 5vw; */
+}
+
+.hero-right{
+  position: relative;
+  margin-top: 2.5vw;
+  /* right: 2.5vw; */
 }
 
 .hero-buttons{
@@ -458,7 +470,8 @@ html, body {
   flex-direction: row-reverse;
   text-align: center;
   /* margin-top: 23%; */
-  margin-top: 6.5vw;
+  position: absolute;
+  top: 33vw;
 }
 
 .cnt-btn-wrap{
@@ -545,7 +558,7 @@ html, body {
 
 #hero-face{
   /* width: 700px; */
-  width: 35vw;
+  width: 38vw;
   height: auto;
 }
 
@@ -662,13 +675,15 @@ html, body {
   /* margin: auto; */
   display: flex;
   justify-content: space-between;
+  position: relative;
   /* display: grid; */
 
 }
 
 .exalton-left{
-  position: relative;
-  margin-left: 10%;
+  position: absolute;
+  left: 10%;
+  /* margin-left: 10%; */
   margin-top: -2%;
 }
 
@@ -792,7 +807,7 @@ html, body {
 
 .venmo-right{
   position: relative;
-  margin-right: 10%;
+  /* margin-right: 10%; */
   margin-top: -2%;
 }
 
@@ -860,12 +875,14 @@ html, body {
   /* margin: auto; */
   display: flex;
   justify-content: space-between;
+  position: relative;
 }
 
 .tse-left{
-  position: relative;
-  margin-left: 10%;
+  position: absolute;
+  /* margin-left: 10%; */
   margin-top: -2%;
+  left: 10%;
 }
 
 
@@ -935,7 +952,7 @@ html, body {
 
 .sm-right{
   position: relative;
-  margin-right: 10%;
+  /* margin-right: 10%; */
   margin-top: -2%;
 }
 
@@ -2047,6 +2064,7 @@ body.fade {
       font-size: 2.5vw;
       letter-spacing: 0.1em;
       margin-bottom: 2vw;
+      cursor: default;
     }
     
     .menu-proj-head{
@@ -2419,6 +2437,8 @@ body.fade {
   font-size: 4.5vw;
   letter-spacing: 0.1em;
   margin-bottom: 2vw;
+  cursor: default;
+
 }
 
 .menu-proj-head{

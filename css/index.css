@@ -2665,6 +2665,7 @@ body.fade {
   font-size: 4vw;
   line-height: 35px;
   max-width: 185px;
+  width: auto;
 }
 
 #copy-alert-abt{
@@ -2680,5 +2681,6 @@ body.fade {
   /* margin-left: 1vw; */
   line-height: 35px;
   max-width: 185px;
+  width: auto;
 }
 }

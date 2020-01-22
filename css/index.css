@@ -558,7 +558,7 @@ html, body {
 
 #hero-face{
   /* width: 700px; */
-  width: 38vw;
+  width: 37vw;
   height: auto;
 }
 
@@ -1989,8 +1989,9 @@ body.fade {
 @media only screen and (max-width:1450px) and (min-width: 501px){
   .hero{
     width: 100vw;
-    height: 100%;
+    height: 55vw;
   }
+
 
   .connect-btn{
     line-height: 3.5vw;
@@ -2126,7 +2127,7 @@ body.fade {
   /* HERO */
 
   .hero{
-    height: 100vh;
+    height: 105vh;
   }
 
   .hero-container{
@@ -2187,15 +2188,21 @@ body.fade {
     height: auto;
     position: absolute;
     top: 19vw;
-    left: -9vw;
+    left: -15vw;
     z-index: 1;
   }
   
-  .hero-left, .hero-right{
+  .hero-left{
     margin-top: 5vw;
+  }
+
+  .hero-right{
+    /* margin-top: 4vw; */
+    margin-right: 15vw;
   }
   .hero-left{
     position: relative;
+    margin-left: 25%;
   }
   
   .hero-buttons{
@@ -2511,6 +2518,10 @@ body.fade {
   margin: auto;
 }
 
+.mobile-gap{
+  margin-bottom: 40vw !important;
+}
+
 .exalton-container, .venmo-container, .tse-container, .sm-container{
   margin-top: 5%;
   flex-direction: column-reverse;
@@ -2524,7 +2535,9 @@ body.fade {
 
 .exalton-left, .tse-left{
   margin-left: 0;
-  margin-top: 0;
+  margin-top: 40%;
+  left: 0;
+
 }
 
 .venmo-right, .sm-right{

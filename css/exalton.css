@@ -727,6 +727,11 @@ transition: 0.25s;
   width: 50%;
   height: auto;
 }
+
+.on-off{
+  width: 40%;
+}
+
 .final-header{
   font-family: 'cereal-book', sans-serif;
 
@@ -1600,6 +1605,7 @@ z-index: 3;
 .workspace-graphic, .sharing-graphic{
   width: 100%;
 }
+
 
 .left-description, .right-description{
   margin-top: 5vw;

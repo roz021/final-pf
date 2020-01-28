@@ -724,6 +724,7 @@
   font-family: 'fieldwork', sans-serif;
   font-weight: 400;
   font-size: 12vw;
+  line-height: 1.75em;
   color: var(--num-gray);
   position: absolute;
   right: 0;
